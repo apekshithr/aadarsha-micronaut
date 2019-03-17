@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aadarsha Micronaut    
 This is a simple application built to evalue micronaut. 
 Aadarsha translated to "ideal" in english. This app will prove out the following capabilities of micronaut as a framework and as a good alternative to Spring boot.
