@@ -12,7 +12,7 @@ Aadarsha translated to "ideal" in english. This app will prove out the following
 - Security
 - Containerization
 
-#Prerequisite
+## Prerequisite
 - IDE of your choice
 - PostgreSQL
 TBD
