@@ -1,0 +1,20 @@
+micronaut:
+  application:
+    name: aadarsha-micronaut
+datasources:
+  default:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: ""
+    driverClassName: org.postgresql.Driver
+jpa:
+  default:
+    packages-to-scan:
+      - 'com.micronaut.domain'
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: update
+        show_sql: true
+
+
